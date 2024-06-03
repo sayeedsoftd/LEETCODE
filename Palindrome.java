@@ -2,7 +2,7 @@ package MyJavaProject.LeetCode;
 
 public class Palindrome {
     public static void main(String[] args) {
-        int x=-121;
+        int x=121;
         System.out.println(isPalindrome(x));
 
 
